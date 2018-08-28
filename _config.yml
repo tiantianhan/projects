@@ -3,6 +3,8 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
+remote_theme: simpleyyt/jekyll-theme-next
+
 # Site
 title: things I have loved
 subtitle: Tina's personal blog
