@@ -37,7 +37,7 @@ paginate: 10
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -119,8 +119,8 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
-  categories: /categories/
+  home: https://tiantianhan.github.io/
+  #categories: /categories/
   #about: /about/
   #archives: /archives/
   tags: /tags/
@@ -266,10 +266,10 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
+  #display: post
   #display: always
   #display: hide
-  #display: remove
+  display: remove
 
   # Sidebar offset from top menubar in pixels.
   offset: 12
@@ -588,7 +588,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
