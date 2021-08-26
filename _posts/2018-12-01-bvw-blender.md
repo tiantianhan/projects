@@ -4,6 +4,7 @@ title: "VR Experience - Being a blender"
 date: 2018-11-01
 categories:
 - programming
+- front page
 tags:
 - VR
 - Unity

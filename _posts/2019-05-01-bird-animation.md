@@ -4,6 +4,7 @@ title: "The Crow - Animation pipeline basics"
 date: 2019-02-01
 categories:
 - art
+- front page
 tags:
 - art
 - Maya

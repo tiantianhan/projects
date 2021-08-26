@@ -4,6 +4,7 @@ title: "Technology, interactive theatre, and audience agency"
 date: 2020-05-01
 categories:
 - research
+- programming
 tags:
 - Android
 - ETC

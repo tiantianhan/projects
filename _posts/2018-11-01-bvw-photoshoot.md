@@ -4,6 +4,7 @@ title: "VR Experience - Hellish photoshoot"
 date: 2018-10-01
 categories:
 - programming
+- front page
 tags:
 - Unity
 - ETC

@@ -4,6 +4,7 @@ title: "VR Experience - Yodeling tree"
 date: 2018-09-01
 categories:
 - programming
+- front page
 tags:
 - VR
 - Unity

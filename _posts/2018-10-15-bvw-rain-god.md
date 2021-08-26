@@ -4,6 +4,7 @@ title: "AR Experience - Rain god"
 date: 2018-09-15
 categories:
 - programming
+- front page
 tags:
 - AR
 - ETC
