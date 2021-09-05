@@ -21,10 +21,13 @@ photos:
 [Video Link](https://youtu.be/Mx3o8jhNsEU)  
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University**  
-I took and thoroughly enjoyed a wonderful course in animation production pipeline that gave me an introduction and overview to how animated films are made. 
+
+**Platforms:** Maya, Arnold, ZBrush, Substance Painter, Photoshop, Python
+
+I took a course on animation production pipelines, which gave me an introduction and overview of how animated films are made. 
 
 <!-- more -->
 
-I learned about how to design a character that visually complements its personality, its role in the story, and the world it belongs to. I learned to find references and make storyboards. I learned the basics of box modeling, sculpting and retopologizing, rigging, Python scripting to automate part of the rigging, animation and rendering. It really helped me begin to understand the role of a 3D artist in animation which I think is the first step to understanding how best to build software that supports their work.
+I independently created a short scene from start to finish, working on all different parts of the pipeline. I learned how to design a character that visually fits its personality, its role in the story, and the world it belongs to. I found references and made storyboards. I did the box modeling, sculpting and re-topologizing, rigging and Python scripting to automate part of the rigging, animation and the rendering of the main character. I’m responsible for all aspects of the final video except for the background image and original audio files for the sound. 
 
-I’m responsible for all aspects of the final video except for the background image and original audio files for the sound effects.
+This course really helped me understand the different roles of 3D artists in animation and some of the unique challenges an animated film faces with the different requirements of each story and character. I feel I can better understand how best to build software that support artists and their work in CG projects.

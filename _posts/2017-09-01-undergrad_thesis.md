@@ -13,12 +13,12 @@ photos:
 **University of Toronto**  
 **Platforms:** C++, OpenCV
 
-I wrote a program that changes human skin colour to match another’s.
+For my undergrad thesis, I researched human skin color transfer algorithms and wrote a program that adjusts skin colour on images of human hands to match the color in a target image.
 
 <!-- more -->
 
-The motivation here is that we have a nail polish try-on app that uses a model hand to demonstrate the appearance of nail polish - we want to be able to adjust the skin colour of the model hand to whatever the user’s skin colour is. That way, the user has a better idea how the nail polish will look on themselves.
+The motivation was a nail polish try-on app that used a model hand to demonstrate the appearance of nail polish. We wanted to be able to adjust the skin colour of the model hand to the user’s exact skin colour. That way, the user would have much a better idea how the nail polish would look on themselves.
 
-This sort of skin colour matching and correcting is actually a pretty common task for people who edit photos. The challenge here is to do it automatically, without the help of a human making judgments about how to adjust the colours. It’s not as simple as adjusting brightness - for it to look natural we had to do things like avoiding dark lines and bright spots.
+Skin colour matching and correcting is a common task for people who edit photos. The challenge was to do it automatically, and have it look natural without the help of a human making judgments based on what looks "right".
 
-It still needs work for big colour changes! One of the things I learned was how unforgiving changes to skin colour can be - unless you get it just right, it can look very unnatural.
+The experience gave me valuable insight into the process for formal academic writing. I learned how to perform background research in existing literature and presenting the final algorithm and results in a organized way.

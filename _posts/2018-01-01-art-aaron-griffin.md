@@ -12,10 +12,11 @@ tags:
 
 **Platforms:** Photoshop  
 
-I found an artist, Aaron Griffin, who draws portraits in a style that I really loved and decided to try to learn his process and how to use his brushes. 
+I found an artist, [Aaron Griffin](https://www.artstation.com/aaron-griffin), who draws portraits in a style that I really liked and tried to learn his process based on demos and brushes he had kindly posted online.
 
 <!-- more -->
 
-The reference for the drawing is a screen-capture from the T.V. show Supernatural, a moment which I thought highlighted a really important trait of the character - he is a soldier loyal to a cause.
+I especially like Aaron Griffin's style because while he uses digital tools, his portraits have a paint and paper appearance to them. I really like projects that do this - that use digital tools but still have real-world noise and imperfections in the result.
 
-I’ve really enjoyed learning to draw faces. The process has taught me a lot about light, shadows, textures, colours, and human anatomy. I’m know there’s more I haven’t yet fathomed. I never knew so much could go into a drawing until I tried it.
+The reference for this drawing is a screen-capture from the T.V. show Supernatural, a moment which I thought highlighted a really important trait of the character - he is a soldier loyal to a cause. The drawing process taught me a lot about light, shadows, textures, colours, and human anatomy. 
+
