@@ -18,13 +18,14 @@ photos:
 ---
 
 ![Bird](/assets/posts/images/bird.png)
-[Video Link](https://youtu.be/Mx3o8jhNsEU)  
+
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University**  
 
 **Platforms:** Maya, Arnold, ZBrush, Substance Painter, Photoshop, Python
 
-I took a course on animation production pipelines, which gave me an introduction and overview of how animated films are made. 
+I took a course on animation production pipelines, which gave me an introduction and overview of how animated films are made.  
+[Video](https://youtu.be/Mx3o8jhNsEU)  
 
 <!-- more -->
 

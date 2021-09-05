@@ -21,8 +21,7 @@ Building Virtual Worlds (BVW), 2018**
 **Scope:** Built in one week with team of four  
 **My role:** Programmer
 
-“Photoshoot from Hell”
-
+“Photoshoot from Hell”  
 A Kinect game where guests are fashionable skeletons, and must shake away pesky spiders and bats before posing for their photoshoot.
 
 <!-- more -->
