@@ -7,7 +7,7 @@ categories:
 tags:
 - research
 photos:
-- projects/assets/posts/images/allosperse_poster.png
+- /assets/posts/images/allosperse_poster.png
 
 ---
 **Institute for Optical Sciences and Department of Chemistry, University of Toronto**  

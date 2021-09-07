@@ -7,7 +7,7 @@ categories:
 tags:
 - research
 photos:
-- projects/assets/posts/images/undergrad_thesis.png
+- /assets/posts/images/undergrad_thesis.png
 
 ---
 **University of Toronto**  
