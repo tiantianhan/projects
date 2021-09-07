@@ -12,9 +12,9 @@ tags:
 - BVW
 ---
 
-![Screenshot](/assets/posts/images/fruit_send.jpg)  
-![Screenshot](/assets/posts/images/fruit_cut.jpg)  
-![Screenshot](/assets/posts/images/fruit_pour.jpg)  
+![Screenshot]({{ site.baseurl }}/assets/posts/images/fruit_send.jpg)  
+![Screenshot]({{ site.baseurl }}/assets/posts/images/fruit_cut.jpg)  
+![Screenshot]({{ site.baseurl }}/assets/posts/images/fruit_pour.jpg)  
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University**  
 **Building Virtual Worlds (BVW), 2018**  

@@ -10,9 +10,9 @@ tags:
 - ETC
 - research
 photos:
-- /assets/posts/images/theatre-exe_database.png
-- /assets/posts/images/theatre-exe_diagram.jpg
-- /assets/posts/images/theatre-exe_prototype.jpg
+- {{ site.baseurl }}/assets/posts/images/theatre-exe_database.png
+- {{ site.baseurl }}/assets/posts/images/theatre-exe_diagram.jpg
+- {{ site.baseurl }}/assets/posts/images/theatre-exe_prototype.jpg
 --- 
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University**    
