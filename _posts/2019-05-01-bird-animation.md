@@ -9,12 +9,12 @@ tags:
 - art
 - Maya
 photos:
-- projects/assets/posts/images/bird_preprod/crow_wip.jpg
-- projects/assets/posts/images/bird_preprod/raven_positions.jpg
-- projects/assets/posts/images/bird_preprod/storyboard_1.jpg
-- projects/assets/posts/images/bird_preprod/storyboard_2.jpg
-- projects/assets/posts/images/bird_preprod/storyboard_3.jpg
-- projects/assets/posts/images/bird_preprod/storyboard_4.jpg
+- /assets/posts/images/bird_preprod/crow_wip.jpg
+- /assets/posts/images/bird_preprod/raven_positions.jpg
+- /assets/posts/images/bird_preprod/storyboard_1.jpg
+- /assets/posts/images/bird_preprod/storyboard_2.jpg
+- /assets/posts/images/bird_preprod/storyboard_3.jpg
+- /assets/posts/images/bird_preprod/storyboard_4.jpg
 ---
 
 ![Bird]({{ site.baseurl }}/assets/posts/images/bird.png)
