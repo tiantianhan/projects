@@ -12,7 +12,7 @@ tags:
 - BVW
 ---
 
-![Screenshot](/assets/posts/images/rain_god.png)
+![Screenshot]({{ site.baseurl }}/assets/posts/images/rain_god.png)
 
 **Entertainment Technology Center (ETC), Carnegie Mellon**   
 **Building Virtual Worlds (BVW), 2018**

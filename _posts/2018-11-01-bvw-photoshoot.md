@@ -11,8 +11,8 @@ tags:
 - BVW
 ---
 
-![Screenshot](/assets/posts/images/pose.jpg)  
-![Screenshot](/assets/posts/images/pose_shake.jpg)
+![Screenshot]({{ site.baseurl }}/assets/posts/images/pose.jpg)  
+![Screenshot]({{ site.baseurl }}/assets/posts/images/pose_shake.jpg)
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University   
 Building Virtual Worlds (BVW), 2018**

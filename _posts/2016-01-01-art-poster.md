@@ -8,7 +8,7 @@ tags:
 - art
 ---
 
-![Screenshot](/assets/posts/images/art_poster.jpg)
+![Screenshot]({{ site.baseurl }}/assets/posts/images/art_poster.jpg)
 
 **Platforms:** Photoshop  
 

@@ -7,9 +7,9 @@ categories:
 tags:
 - research
 photos:
-- /assets/posts/images/energy_harvesters_board.jpg
-- /assets/posts/images/energy_harvesters_sizes.jpg
-- /assets/posts/images/energy_harvesters_shaker.jpg
+- projects/assets/posts/images/energy_harvesters_board.jpg
+- projects/assets/posts/images/energy_harvesters_sizes.jpg
+- projects/assets/posts/images/energy_harvesters_shaker.jpg
 
 ---
 **Energy-Efficient Circuits and Systems Group, MIT**  

@@ -12,8 +12,8 @@ tags:
 - BVW
 ---
 
-![Screenshot](/assets/posts/images/treeman_rainbow.jpg)
-![Screenshot](/assets/posts/images/treeman_bird.jpg)
+![Screenshot]({{ site.baseurl }}/assets/posts/images/treeman_rainbow.jpg)
+![Screenshot]({{ site.baseurl }}/assets/posts/images/treeman_bird.jpg)
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University 
 Building Virtual Worlds (BVW), 2018**
