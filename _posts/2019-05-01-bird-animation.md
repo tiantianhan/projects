@@ -9,15 +9,15 @@ tags:
 - art
 - Maya
 photos:
-- /assets/posts/images/bird_preprod/crow_wip.jpg
-- /assets/posts/images/bird_preprod/raven_positions.jpg
-- /assets/posts/images/bird_preprod/storyboard_1.jpg
-- /assets/posts/images/bird_preprod/storyboard_2.jpg
-- /assets/posts/images/bird_preprod/storyboard_3.jpg
-- /assets/posts/images/bird_preprod/storyboard_4.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/crow_wip.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/raven_positions.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/storyboard_1.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/storyboard_2.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/storyboard_3.jpg
+- {{ site.baseurl }}/assets/posts/images/bird_preprod/storyboard_4.jpg
 ---
 
-![Bird](/assets/posts/images/bird.png)
+![Bird]({{ site.baseurl }}/assets/posts/images/bird.png)
 
 
 **Entertainment Technology Center (ETC), Carnegie Mellon University**  
