@@ -10,7 +10,7 @@ tags:
 - ETC
 - research
 photos:
-- /assets/posts/images/theatre-exe_database.png
+- /assets/posts/images/theatre-exe_database.PNG
 - /assets/posts/images/theatre-exe_diagram.jpg
 - /assets/posts/images/theatre-exe_prototype.jpg
 --- 
